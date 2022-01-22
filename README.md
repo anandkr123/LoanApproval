@@ -25,7 +25,7 @@
 ### Scale the outliers by taking log of the values, histogram plot
 ![histogram](https://user-images.githubusercontent.com/23450113/150659028-ad3e7cc7-7077-4482-99ac-7f14aa5b4ece.png)
 
-### Validation accuracy 70 % (train dataset, 422-1, 192-0)
+### Validation accuracy 70 % (train dataset, 422-positive classes, 192-negative classes)
 ### Test accuracy       30 % ( Ground truth with all negative classes)
 
 
