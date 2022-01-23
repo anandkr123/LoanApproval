@@ -11,12 +11,15 @@
  
 ### Credit history feature analysis
 ![Credit_History_relevance](https://user-images.githubusercontent.com/23450113/150649236-a4429384-9c0b-425f-a126-df8197281d05.png)
+
+
 People with credit history have relatiely higher chances of loan approval
 
 
 ### Features heatmap
 
 High correlation between (credit history, Loan status) and (Applicant Income, Loan amount)
+
 ![heatmap](https://user-images.githubusercontent.com/23450113/150649266-58af7814-0280-4974-8683-343c5f80834a.png)
 
 
