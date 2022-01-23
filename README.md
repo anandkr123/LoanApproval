@@ -10,7 +10,6 @@
  ['Loan_Status'']
  
 ### Credit history feature analysis
-
 People with credit history have relatiely higher chances of loan approval
 ![Credit_History_relevance](https://user-images.githubusercontent.com/23450113/150649236-a4429384-9c0b-425f-a126-df8197281d05.png)
 
